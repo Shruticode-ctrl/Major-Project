@@ -1,2 +1,11 @@
 .env
 node_modules/
+# Ignore PDFs
+*.pdf
+
+# Ignore Chrome download temp files
+*.crdownload
+
+# Ignore zip & installer files
+*.zip
+*.msi
